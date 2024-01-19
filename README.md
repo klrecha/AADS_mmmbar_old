@@ -1,9 +1,8 @@
 # AADS_mmmbar_old
-US HCP MMM style
+
 The name **“mmmbar”** stands for “Marketing Mix Models - Business
 Analytics in R.” The goal of mmmbar is to standardize and streamline
-marketing mix model fitting and insights generation for the Advanced
-Analytics - US Commercial team at Eli Lilly. As the team and its body of
+marketing mix model fitting and insights generation. As the team and its body of
 work grows, having well tested, standardized code will ensure that our
 results are sound across analyses, will streamline our workflow, and
 encourage easy to share code and reproducible results. The **mmmbar**
